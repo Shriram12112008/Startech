@@ -1,0 +1,44 @@
+{
+  "Logistic Regression": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "accuracy": 1.0,
+    "true_negatives": 3960,
+    "false_positives": 0,
+    "false_negatives": 0,
+    "true_positives": 40,
+    "total_samples": 4000,
+    "fraud_count": 40,
+    "roc_auc": 1.0,
+    "pr_auc": 1.0
+  },
+  "Random Forest": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "accuracy": 1.0,
+    "true_negatives": 3960,
+    "false_positives": 0,
+    "false_negatives": 0,
+    "true_positives": 40,
+    "total_samples": 4000,
+    "fraud_count": 40,
+    "roc_auc": 1.0,
+    "pr_auc": 1.0
+  },
+  "Isolation Forest": {
+    "precision": 0.7017543859649122,
+    "recall": 1.0,
+    "f1": 0.8247422680412371,
+    "accuracy": 0.99575,
+    "true_negatives": 3943,
+    "false_positives": 17,
+    "false_negatives": 0,
+    "true_positives": 40,
+    "total_samples": 4000,
+    "fraud_count": 40,
+    "roc_auc": 1.0,
+    "pr_auc": 1.0
+  }
+}
